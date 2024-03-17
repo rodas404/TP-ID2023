@@ -1,0 +1,16 @@
+
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT preco (#PCDATA)>
+<!ELEMENT editora (#PCDATA)>
+<!ELEMENT capa (#PCDATA)>
+<!ELEMENT livro (titulo,preco,editora,capa)>
+<!ELEMENT escritor (livro)+>
+<!ELEMENT obras (escritor)+>
+
+<!ATTLIST livro isbn CDATA #REQUIRED>
+
+<!ATTLIST escritor nome CDATA #REQUIRED>
+<!ATTLIST escritor id CDATA #REQUIRED>
+
+<!ATTLIST obras xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST obras xsi:noNamespaceSchemaLocation CDATA #IMPLIED>

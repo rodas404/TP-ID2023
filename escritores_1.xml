@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<escritores>
+     <escritor id="1">
+          <nome>Oscar Wilde</nome>
+          <nomeCompleto>Oscar Fingal O'Flahertie Wills Wilde</nomeCompleto>
+          <nacionalidade>irlandês</nacionalidade>
+          <fotografia>//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg/250px-Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg</fotografia>
+          <nascimento>
+               <data>16 de outubro 1854</data>
+               <ano>1854</ano>
+               <local>Dublin, Reino Unido da Grã-Bretanha e Irlanda</local>
+          </nascimento>
+          <morte>
+               <data>30 de novembro 1900</data>
+               <ano>1900</ano>
+               <local>Paris, França</local>
+          </morte>
+          <generos />
+          <ocupacoes />
+          <obrasEmDestaque />
+          <premios>
+               <premio ano="1878">Newdigate Prize</premio>
+          </premios>
+     </escritor>
+</escritores>

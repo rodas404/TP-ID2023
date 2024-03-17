@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="escritor">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="nomeCompleto"/>
+				<xs:element ref="nacionalidade"/>
+				<xs:element ref="fotografia" minOccurs="0"/>
+				<xs:element ref="nascimento"/>
+				<xs:element ref="morte" minOccurs="0"/>
+				<xs:element ref="generos"/>
+				<xs:element ref="ocupacoes"/>
+				<xs:element ref="obrasEmDestaque"/>
+				<xs:element ref="premios" minOccurs="0"/>
+			</xs:sequence>
+			<xs:attribute name="nome" type="xs:string" use="required"/>
+			<xs:attribute name="id" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="nascimento">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="data"/>
+				<xs:element ref="ano"/>
+				<xs:element ref="local"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ano" type="xs:string"/>
+	<xs:element name="data" type="xs:string"/>
+	<xs:element name="premio">
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute name="ano" type="xs:string" use="required"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="premios">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="premio" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="obrasEmDestaque">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="obra" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="escritores">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="escritor" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="fotografia" type="xs:string"/>
+	<xs:element name="local" type="xs:string"/>
+	<xs:element name="ocupacoes">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="ocupacao" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="obra" type="xs:string"/>
+	<xs:element name="ocupacao" type="xs:string"/>
+	<xs:element name="morte">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="data"/>
+				<xs:element ref="ano"/>
+				<xs:element ref="local"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="genero" type="xs:string"/>
+	<xs:element name="generos">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="genero" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="nacionalidade" type="xs:string"/>
+	<xs:element name="nomeCompleto" type="xs:string"/>
+</xs:schema>

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<escritores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="escritores.xsd">
+     <escritor nome="Daniel Silva" id="1">
+          <nomeCompleto>Daniel Silva</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/DanielSilva01.JPG/200px-DanielSilva01.JPG</fotografia>
+          <nascimento>
+               <data>1960</data>
+               <ano>1960</ano>
+               <local>Michigan</local>
+          </nascimento>
+          <generos />
+          <ocupacoes>
+               <ocupacao>escritor</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>romancista</ocupacao>
+               <ocupacao>crime fiction writer</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Morte em Viena</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="Oscar Wilde" id="2">
+          <nomeCompleto>Oscar Fingal O'Flahertie Wills Wilde</nomeCompleto>
+          <nacionalidade>Irlandês</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg/250px-Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg</fotografia>
+          <nascimento>
+               <data>16 de outubro 1854</data>
+               <ano>1854</ano>
+               <local>Dublin, Reino Unido da Grã-Bretanha e Irlanda</local>
+          </nascimento>
+          <morte>
+               <data>30 de novembro 1900</data>
+               <ano>1900</ano>
+               <local>Paris, França</local>
+          </morte>
+          <generos>
+               <genero>Drama</genero>
+               <genero>conto</genero>
+               <genero>diálogo</genero>
+          </generos>
+          <ocupacoes>
+               <ocupacao>poeta</ocupacao>
+               <ocupacao>dramaturgo</ocupacao>
+               <ocupacao>contista</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>escritor de literatura infantil</ocupacao>
+               <ocupacao>romancista</ocupacao>
+               <ocupacao>escritor</ocupacao>
+               <ocupacao>autor</ocupacao>
+               <ocupacao>prosista</ocupacao>
+               <ocupacao>jornalista de opinião</ocupacao>
+               <ocupacao>ensaísta</ocupacao>
+               <ocupacao>fabulista</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>The Importance of Being Earnest</obra>
+               <obra>O Retrato de Dorian Gray</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1878">Newdigate Prize</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Nicholas Sparks" id="3">
+          <nomeCompleto>Nicholas Charles Sparks</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg/250px-Nicholas-Sparks-Autograph-1-4-06.jpg</fotografia>
+          <nascimento>
+               <data>31 de dezembro 1965</data>
+               <ano>1965</ano>
+               <local>Omaha, Nebraska</local>
+          </nascimento>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Escritor</ocupacao>
+               <ocupacao>roteirista</ocupacao>
+               <ocupacao>produtor</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>The Notebook</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="Fernando Pessoa" id="4">
+          <nomeCompleto>Fernando António Nogueira Pessoa</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pessoa_chapeu.jpg/200px-Pessoa_chapeu.jpg</fotografia>
+          <nascimento>
+               <data>13 de junho 1888</data>
+               <ano>1888</ano>
+               <local>Lisboa, Mártires, Reino de Portugal</local>
+          </nascimento>
+          <morte>
+               <data>30 de novembro 1935</data>
+               <ano>1935</ano>
+               <local>Lisboa, Santa Catarina, Portugal</local>
+          </morte>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Poeta</ocupacao>
+               <ocupacao>escritor</ocupacao>
+               <ocupacao>tradutor</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Mensagem</obra>
+               <obra>Livro do Desassossego</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1903">Queen Victoria Prize</premio>
+               <premio ano="1934">Prémio Antero de Quental</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Paulo Coelho" id="5">
+          <nomeCompleto>Paulo Coelho de Souza</nomeCompleto>
+          <nacionalidade>Brasileiro</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Paulo_Coelho_30102007.jpg/220px-Paulo_Coelho_30102007.jpg</fotografia>
+          <nascimento>
+               <data>24 de agosto 1947</data>
+               <ano>1947</ano>
+               <local>Rio de Janeiro, DF</local>
+          </nascimento>
+          <generos>
+               <genero>Drama</genero>
+               <genero>romance</genero>
+          </generos>
+          <ocupacoes>
+               <ocupacao>Escritor</ocupacao>
+               <ocupacao>letrista</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>compositor</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>O Alquimista</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="José Luís Peixoto" id="6">
+          <nomeCompleto>José Luís Marques Peixoto</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/223px-JoseLuisPeixoto.JPG</fotografia>
+          <nascimento>
+               <data>4 de setembro 1974</data>
+               <ano>1974</ano>
+               <local>Galveias, Ponte de Sor</local>
+          </nascimento>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Escritor</ocupacao>
+               <ocupacao>dramaturgo</ocupacao>
+               <ocupacao>poeta</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Morreste-me</obra>
+               <obra>Nenhum Olhar</obra>
+               <obra>Cemitério de Pianos</obra>
+               <obra>Livro</obra>
+               <obra>Dentro do Segredo</obra>
+               <obra>Galveias</obra>
+               <obra>Em Teu Ventre</obra>
+               <obra>Autobiografia</obra>
+               <obra>Almoço de Domingo</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="2001">Prémio José Saramago</premio>
+               <premio ano="2008">Prémio de Poesia Daniel Faria</premio>
+               <premio ano="2007">Prémio Cálamo Outra Mirada</premio>
+               <premio ano="2013">Prémio Libro d' Europa</premio>
+               <premio ano="2013">Prémio Sociedade Portuguesa de Autores</premio>
+               <premio ano="2016">Oceanos-Prêmio de Literatura em Língua Portuguesa</premio>
+               <premio ano="2019">The Best Translation Award-Japan</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Isabel Allende" id="7">
+          <nomeCompleto>Isabel Allende Llona</nomeCompleto>
+          <nacionalidade>Chilena</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Isabel_allende.jpg/200px-Isabel_allende.jpg</fotografia>
+          <nascimento>
+               <data>2 de agosto 1942</data>
+               <ano>1942</ano>
+               <local>Lima, Peru</local>
+          </nascimento>
+          <generos />
+          <ocupacoes />
+          <obrasEmDestaque>
+               <obra>A Casa dos Espíritos</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="2010">Prêmio Nacional de Literatura do Chile</premio>
+               <premio ano="2014">Medalha Presidencial da Liberdade</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Julian Barnes" id="8">
+          <nomeCompleto>Julian Patrick Barnes</nomeCompleto>
+          <nacionalidade>Britânica</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Julian_Barnes_in_2019_02.jpg/200px-Julian_Barnes_in_2019_02.jpg</fotografia>
+          <nascimento>
+               <data>19 de janeiro 1946</data>
+               <ano>1946</ano>
+               <local>Leicester, Reino Unido</local>
+          </nascimento>
+          <generos>
+               <genero>Romance</genero>
+               <genero>conto</genero>
+          </generos>
+          <ocupacoes />
+          <obrasEmDestaque>
+               <obra>O papagaio de Flaubert</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1986">Prémio Médicis ensaio</premio>
+               <premio ano="1992">Prémio Femina estrangeiro</premio>
+               <premio ano="2011">Prémio Man Booker</premio>
+          </premios>
+     </escritor>
+     <escritor nome="João Tordo" id="9">
+          <nomeCompleto>João Tordo</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Jo%C3%A3o_Tordo.jpg/200px-Jo%C3%A3o_Tordo.jpg</fotografia>
+          <nascimento>
+               <data>28 de agosto 1975</data>
+               <ano>1975</ano>
+               <local>Lisboa</local>
+          </nascimento>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Jornalista</ocupacao>
+               <ocupacao>escritor</ocupacao>
+               <ocupacao>argumentista</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque />
+          <premios>
+               <premio ano="2009">Prémio Literário José Saramago</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Gabriela Mistral" id="10">
+          <nomeCompleto>Lucila de María Godoy Alcayaga</nomeCompleto>
+          <nacionalidade>Chilena</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gabriela_Mistral-01.jpg/200px-Gabriela_Mistral-01.jpg</fotografia>
+          <nascimento>
+               <data>7 de abril 1889</data>
+               <ano>1889</ano>
+               <local>Vicuña</local>
+          </nascimento>
+          <morte>
+               <data>10 de janeiro 1957</data>
+               <ano>1957</ano>
+               <local>Nova Iorque</local>
+          </morte>
+          <generos />
+          <ocupacoes>
+               <ocupacao>poeta</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Antologia poética</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1945">Nobel de Literatura</premio>
+               <premio ano="1951">Prêmio Nacional de Literatura do Chile</premio>
+          </premios>
+     </escritor>
+     <escritor nome="J. K. Rowling" id="11">
+          <nomeCompleto>Joanne Rowling</nomeCompleto>
+          <nacionalidade>Britânica</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/225px-J._K._Rowling_2010.jpg</fotografia>
+          <nascimento>
+               <data>31 de julho 1965</data>
+               <ano>1965</ano>
+               <local>Yate, South Gloucestershire, Reino Unido</local>
+          </nascimento>
+          <generos>
+               <genero>Fantasia</genero>
+               <genero>drama</genero>
+               <genero>tragicomédia</genero>
+               <genero>romance policial</genero>
+          </generos>
+          <ocupacoes>
+               <ocupacao>escritora</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Harry Potter</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="Raymond Carver" id="12">
+          <nomeCompleto>Raymond Clevie Carver, Jr.</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <nascimento>
+               <data>25 de maio 1938</data>
+               <ano>1938</ano>
+               <local>Clatskanie, Oregon</local>
+          </nascimento>
+          <morte>
+               <data>1988</data>
+               <ano>0</ano>
+               <local>Port Angeles, Washington</local>
+          </morte>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Escritor</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Cathedral</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="Gore Vidal" id="13">
+          <nomeCompleto>Eugene Luther Gore Vidal</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gore_Vidal_2_Shankbone_2009_NYC.jpg/200px-Gore_Vidal_2_Shankbone_2009_NYC.jpg</fotografia>
+          <nascimento>
+               <data>3 de outubro 1925</data>
+               <ano>1925</ano>
+               <local>West Point, Nova Iorque</local>
+          </nascimento>
+          <morte>
+               <data>31 de julho 2012</data>
+               <ano>2012</ano>
+               <local>Hollywood Hills, Los Angeles</local>
+          </morte>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Romancista</ocupacao>
+               <ocupacao>ensaísta</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>dramaturgo</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque />
+          <premios>
+               <premio ano="1982">National Book Critics Circle Award</premio>
+               <premio ano="1993">National Book Award</premio>
+          </premios>
+     </escritor>
+     <escritor nome="James Joyce" id="14">
+          <nomeCompleto>James Augustine Aloysius Joyce</nomeCompleto>
+          <nacionalidade>Irlandês</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revolutionary_Joyce_Better_Contrast.jpg/200px-Revolutionary_Joyce_Better_Contrast.jpg</fotografia>
+          <nascimento>
+               <data>2 de fevereiro 1882</data>
+               <ano>1882</ano>
+               <local>Terenure, Reino Unido da Grã-Bretanha e Irlanda, República da Irlanda</local>
+          </nascimento>
+          <morte>
+               <data>13 de janeiro 1941</data>
+               <ano>1941</ano>
+               <local>Zurique, Cantão de Zurique</local>
+          </morte>
+          <generos />
+          <ocupacoes />
+          <obrasEmDestaque>
+               <obra>Dublinenses</obra>
+               <obra>Retrato do Artista Quando Jovem</obra>
+               <obra>Finnegans Wake</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="Emma Donoghue" id="15">
+          <nomeCompleto>Emma Donoghue</nomeCompleto>
+          <nacionalidade>Irlandesa</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Irish-Canadian_author_Emma_Donoghue.JPG/200px-Irish-Canadian_author_Emma_Donoghue.JPG</fotografia>
+          <nascimento>
+               <data>24 de outubro 1969</data>
+               <ano>1969</ano>
+               <local>Dublin, Irlanda</local>
+          </nascimento>
+          <generos>
+               <genero>Romance</genero>
+               <genero>literatura infantil</genero>
+          </generos>
+          <ocupacoes />
+          <obrasEmDestaque>
+               <obra>Room</obra>
+               <obra>O quarto de Jack</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="José Saramago" id="17">
+          <nomeCompleto>José de Sousa Saramago</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JSJoseSaramago.jpg/250px-JSJoseSaramago.jpg</fotografia>
+          <nascimento>
+               <data>16 de novembro 1922</data>
+               <ano>1922</ano>
+               <local>Azinhaga, Golegã, Portugal</local>
+          </nascimento>
+          <morte>
+               <data>18 de junho 2010</data>
+               <ano>2010</ano>
+               <local>Província de Las Palmas, Canárias, Espanha</local>
+          </morte>
+          <generos />
+          <ocupacoes>
+               <ocupacao>serralheiro</ocupacao>
+               <ocupacao>mecânico</ocupacao>
+               <ocupacao>funcionário público</ocupacao>
+               <ocupacao>técnico editorial</ocupacao>
+               <ocupacao>escritor</ocupacao>
+               <ocupacao>tradutor</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>poeta</ocupacao>
+               <ocupacao>cronista</ocupacao>
+               <ocupacao>dramaturgo</ocupacao>
+               <ocupacao>contista</ocupacao>
+               <ocupacao>romancista</ocupacao>
+               <ocupacao>teatrólogo</ocupacao>
+               <ocupacao>argumentista</ocupacao>
+               <ocupacao>ensaísta</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Memorial do Convento</obra>
+               <obra>O Evangelho segundo Jesus Cristo</obra>
+               <obra>Ensaio sobre a Cegueira</obra>
+               <obra>A Viagem do Elefante</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1980">Prémio Cidade de Lisboa</premio>
+               <premio ano="1982">Prémio Literário Município de Lisboa</premio>
+               <premio ano="1983">Prémio P.E.N. Clube Português de Novelística</premio>
+               <premio ano="1985">Prémio P.E.N. Clube Português de Novelística</premio>
+               <premio ano="1984">Prémio D. Dinis</premio>
+               <premio ano="1985">Prémio da Crítica da Associação Portuguesa de Críticos Literários</premio>
+               <premio ano="1991">Grande Prémio de Romance e Novela APE/DGLB</premio>
+               <premio ano="1991">Prémio Bordalo de Literatura da Casa da Imprensa</premio>
+               <premio ano="1993">Grande Prémio Vida Literária APE/CGD</premio>
+               <premio ano="1995">Prémio Camões</premio>
+               <premio ano="1995">Prémio de Consagração de Carreira da Sociedade Portuguesa de Autores</premio>
+               <premio ano="1998">Prémio Nobel de Literatura</premio>
+          </premios>
+     </escritor>
+     <escritor nome="António Tabucchi" id="18">
+          <nomeCompleto>Antonio Tabucchi</nomeCompleto>
+          <nacionalidade>Italiano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Antonio_Tabucchi.jpg/200px-Antonio_Tabucchi.jpg</fotografia>
+          <nascimento>
+               <data>24 de setembro 1943</data>
+               <ano>1943</ano>
+               <local>Vecchiano, Província de Pisa, Itália</local>
+          </nascimento>
+          <morte>
+               <data>25 de março 2012</data>
+               <ano>2012</ano>
+               <local>Lisboa, Portugal</local>
+          </morte>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Escritor</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Sostiene Pereira</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1987">Prémio Médicis estrangeiro</premio>
+               <premio ano="1997">Prémio Aristeion</premio>
+          </premios>
+     </escritor>
+     <escritor nome="António Lobo Antunes" id="19">
+          <nomeCompleto>António Lobo Antunes</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/270px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg</fotografia>
+          <nascimento>
+               <data>1 de setembro 1942</data>
+               <ano>1942</ano>
+               <local>Lisboa</local>
+          </nascimento>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Escritor</ocupacao>
+               <ocupacao>psiquiatra</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Memória de Elefante</obra>
+               <obra>Eu Hei-de Amar Uma Pedra</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1985">Grande Prémio de Romance e Novela APE/DGLB</premio>
+               <premio ano="1999">Prémio D. Dinis</premio>
+               <premio ano="2003" />
+               <premio ano="2004">Prémio Fernando Namora</premio>
+               <premio ano="2005">Prémio Jerusalém</premio>
+               <premio ano="2006">Prémio Iberoamericano de Letras José Donoso</premio>
+               <premio ano="2007">Prémio Camões</premio>
+               <premio ano="2008">Prémio Juan Rulfo</premio>
+               <premio ano="2010">Prémio Autores de</premio>
+               <premio ano="2017">Prémio Autores de</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Haruki Murakami" id="21">
+          <nomeCompleto>Haruki Murakami</nomeCompleto>
+          <nacionalidade>Japonesa</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Murakami_Haruki_%282009%29.jpg/200px-Murakami_Haruki_%282009%29.jpg</fotografia>
+          <nascimento>
+               <data>12 de janeiro 1949</data>
+               <ano>1949</ano>
+               <local>Quioto, província de Quioto</local>
+          </nascimento>
+          <generos>
+               <genero>romancista</genero>
+               <genero>contista</genero>
+               <genero>ensaísta</genero>
+               <genero>tradutor literário</genero>
+          </generos>
+          <ocupacoes />
+          <obrasEmDestaque>
+               <obra>Kafka à beira-mar</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1985">Prémio Tanizaki</premio>
+               <premio ano="2006">Prémio Franz Kafka</premio>
+               <premio ano="2009">Prémio Jerusalém</premio>
+               <premio ano="2011">Prémio Internacional Catalunha</premio>
+               <premio ano="2016">Prémio de literatura Hans Christian Andersen</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Orhan Pamuk" id="22">
+          <nomeCompleto>Ferit Orhan Pamuk</nomeCompleto>
+          <nacionalidade>turco</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Orhan_Pamuk_2009_Shankbone.jpg/200px-Orhan_Pamuk_2009_Shankbone.jpg</fotografia>
+          <nascimento>
+               <data>7 de junho 1952</data>
+               <ano>1952</ano>
+               <local>Istambul</local>
+          </nascimento>
+          <generos />
+          <ocupacoes>
+               <ocupacao>Romancista</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>A Cidadela Branca</obra>
+               <obra>Os Jardins da Memória</obra>
+               <obra>Vida Nova</obra>
+               <obra>O Meu Nome É Vermelho</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="2003">Prêmio Literário Internacional IMPAC de Dublin</premio>
+               <premio ano="2005">Prémio Médicis estrangeiro</premio>
+               <premio ano="2006">Nobel de Literatura</premio>
+          </premios>
+     </escritor>
+     <escritor nome="Alexandre Herculano" id="23">
+          <nomeCompleto>Alexandre Herculano de Carvalho e Araújo</nomeCompleto>
+          <nacionalidade>Portuguesa</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/AlexandreHerculano.png/240px-AlexandreHerculano.png</fotografia>
+          <nascimento>
+               <data>28 de março 1810</data>
+               <ano>1810</ano>
+               <local>Lisboa, Portugal</local>
+          </nascimento>
+          <morte>
+               <data>13 de setembro 1877</data>
+               <ano>1877</ano>
+               <local>Quinta de Vale de Lobos, Azoia de Baixo, Santarém, Portugal</local>
+          </morte>
+          <generos>
+               <genero>Romance histórico</genero>
+               <genero>poesia romântica</genero>
+          </generos>
+          <ocupacoes>
+               <ocupacao>Romancista</ocupacao>
+               <ocupacao>poeta</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>historiador</ocupacao>
+               <ocupacao>político</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>O Pároco da Aldeia</obra>
+          </obrasEmDestaque>
+     </escritor>
+     <escritor nome="Jorge Amado" id="24">
+          <nomeCompleto>Jorge Leal Amado de Faria</nomeCompleto>
+          <nacionalidade>brasileiro</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jorge_Amado%2C_1970.tif/lossy-page1-200px-Jorge_Amado%2C_1970.tif.jpg</fotografia>
+          <nascimento>
+               <data>10 de agosto 1912</data>
+               <ano>1912</ano>
+               <local>Itabuna, BA, Brasil</local>
+          </nascimento>
+          <morte>
+               <data>6 de agosto 2001</data>
+               <ano>2001</ano>
+               <local>Salvador</local>
+          </morte>
+          <generos>
+               <genero>Romance</genero>
+               <genero>crônica</genero>
+               <genero>fábula</genero>
+               <genero>conto</genero>
+          </generos>
+          <ocupacoes>
+               <ocupacao>Escritor</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>político</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Gabriela</obra>
+               <obra>Cravo e Canela</obra>
+               <obra>Dona Flor e Seus Dois Maridos</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1951">Prêmio Stalin da Paz</premio>
+               <premio ano="1971">Prêmio da Latinidade da Academia do Mundo Latino</premio>
+               <premio ano="1976">Prêmio do Instituto Ítalo-Americano</premio>
+               <premio ano="1983">Prêmio Internacional Dag Hammarsk</premio>
+               <premio ano="1984">Premio Nonino Risit d’Âur</premio>
+               <premio ano="1986">Prêmio Dimitrov de Literatura</premio>
+               <premio ano="1989">Prêmio Pablo Neruda</premio>
+               <premio ano="1989">Prêmio Etruria de Literatura</premio>
+               <premio ano="1990">Premio Mundial Cino Del Duca</premio>
+               <premio ano="1990">Prêmio Mediterrâneo</premio>
+               <premio ano="1995">Prêmio Vitaliano Brancatti</premio>
+               <premio ano="1994">Prêmio Luís de Camões</premio>
+               <premio ano="1988">Medalha de Vermeil</premio>
+               <premio ano="1997">Medalha de Ouro Simón Bolivar</premio>
+               <premio ano="1998">Prêmio Mediterrâneo do Centro di Cultura Mediterranea</premio>
+               <premio ano="1936">Prêmio Graça Aranha, Rio de Janeiro</premio>
+               <premio ano="1959">Prêmio Nacional de Romance do Instituto Nacional do Livro, Rio de Janeiro</premio>
+               <premio ano="1959">Prêmio "Jornal do Comércio", Rio de Janeiro</premio>
+               <premio ano="1959">Prêmio Luisa Cláudio de Souza, do Pen Club do Brasil, Rio de Janeiro</premio>
+               <premio ano="1959">Prêmio Carmem Dolores Barbosa, São Paulo</premio>
+               <premio ano="1959">Prêmio Paula Brito, Rio de Janeiro</premio>
+               <premio ano="1969">Prêmio Juca Pato — "O Intelectual do Ano", São Paulo</premio>
+               <premio ano="1982">Prêmio Fernando Chinaglia, Rio de Janeiro</premio>
+               <premio ano="1982">Prêmio Nestlé de Literatura Brasileira, São Paulo</premio>
+               <premio ano="1983">Prêmio Brasília de Literatura — Conjunto de Obras, Brasília</premio>
+               <premio ano="1984">Prêmio Moinho Santista de Literatura, São Paulo</premio>
+               <premio ano="1984">Prêmio Personalidade Literária do Ano, São Paulo</premio>
+               <premio ano="1985">Prêmio BNB de Literatura, Ceará</premio>
+               <premio ano="1988">Prêmio Pablo Picasso. Brasília</premio>
+               <premio ano="1996">Medalha do Mérito Jornalístico da Associação Baiana de Imprensa, Brasil</premio>
+               <premio ano="1997">Prêmio do Ministério da Cultura</premio>
+          </premios>
+     </escritor>
+</escritores>

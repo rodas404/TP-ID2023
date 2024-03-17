@@ -1,0 +1,37 @@
+
+<!ELEMENT escritor  ( nacionalidade , fotografia , livros? , premios? )>
+<!ATTLIST escritor
+nome CDATA #REQUIRED
+id CDATA #REQUIRED
+>
+
+<!ELEMENT preco  ( #PCDATA )>
+
+<!ELEMENT capa  ( #PCDATA )>
+
+<!ELEMENT premio  ( #PCDATA )>
+<!ATTLIST premio
+ano CDATA #REQUIRED
+>
+
+<!ELEMENT livro  ( titulo , preco , editora , capa )>
+<!ATTLIST livro
+isbn CDATA #REQUIRED
+>
+
+<!ELEMENT livros  ( livro+ )>
+
+<!ELEMENT premios  ( premio+ )>
+
+<!ELEMENT titulo  ( #PCDATA )>
+
+<!ELEMENT global  ( escritor+ )>
+
+<!ELEMENT nacionalidade  ( #PCDATA )>
+
+<!ELEMENT editora  ( #PCDATA )>
+
+<!ELEMENT fotografia  ( #PCDATA )>
+
+<!ATTLIST global xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST global xsi:noNamespaceSchemaLocation CDATA #IMPLIED>

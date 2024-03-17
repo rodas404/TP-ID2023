@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<autores>
+     <autor>
+          <nome>Daniel Silva</nome>
+          <nomeCompleto>Daniel Silva</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/DanielSilva01.JPG/200px-DanielSilva01.JPG</fotografia>
+          <nascimento>1960</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Retrato de uma Desconhecida</titulo>
+                    <isbn>9788491398028</isbn>
+                    <preco>18,81</preco>
+                    <editora>HARPER COLLINS</editora>
+                    <capa>https://img.bertrand.pt/images/retrato-de-uma-desconhecida-daniel-silva/NDV8MjgxMzE2Nzd8MjQ1MjY1Nzl8MTY3NTE2MjYzMDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Assalto</titulo>
+                    <isbn>9789722533911</isbn>
+                    <preco>8,00</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/o-assalto-daniel-silva/NDV8MTkyODk2NTR8MTUwOTU5NzV8MTUwMzMyNDE1NjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Anjo Caído</titulo>
+                    <isbn>9789722532136</isbn>
+                    <preco>8,00</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/o-anjo-caido-daniel-silva/NDV8MTc0MzY1MzF8MTMwNzAxNjJ8MTQ2MDM3MzM1OTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>A Rapariga Inglesa</titulo>
+                    <isbn>9789722533584</isbn>
+                    <preco>8,00</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/a-rapariga-inglesa-daniel-silva/NDV8MTkwMDU5MTl8MTQ3Njk1MzJ8MTQ4ODU1NzQ5MjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Retrato de Uma Espia</titulo>
+                    <isbn>9789722530408</isbn>
+                    <preco>8,00</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/retrato-de-uma-espia-daniel-silva/NDV8MTYyNjk5ODZ8MTE4NTMyMzJ8MTQzNDEyODAxMzAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Oscar Wilde</nome>
+          <nomeCompleto>Oscar Fingal O'Flahertie Wills Wilde</nomeCompleto>
+          <nacionalidade>Irlandês</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg/250px-Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg</fotografia>
+          <nascimento>1854</nascimento>
+          <obras>
+               <livro>
+                    <titulo>O Menino-Estrela</titulo>
+                    <isbn>978-972-0-72716-9</isbn>
+                    <preco>7,75</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-menino-estrela-oscar-wilde/NDV8MTU4NDAyODd8MjQ4OTcwNjJ8MTY4NDIzMDU5NjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Only Dull People Are Brilliant At Breakfast</titulo>
+                    <isbn>9780241251805</isbn>
+                    <preco>2,50</preco>
+                    <editora>PENGUIN BOOKS LTD</editora>
+                    <capa>https://img.bertrand.pt/images/only-dull-people-are-brilliant-at-breakfast-oscar-wilde/NDV8MTc0NDMzODh8MTMwNzc4MDR8MTY3Mjc2OTg5NDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Gigante Egoísta e O Príncipe Feliz</titulo>
+                    <isbn>978-972-0-72684-1</isbn>
+                    <preco>8,85</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-gigante-egoista-e-o-principe-feliz-oscar-wilde/NDV8MTQ4NDUyNTh8MjQyOTA4NDN8MTY3MjIxNzk2MjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Fantasma de Canterville</titulo>
+                    <isbn>978-972-0-72695-7</isbn>
+                    <preco>8,85</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-fantasma-de-canterville-oscar-wilde/NDV8MTU0MjkxMjl8MjE5MDEyNTZ8MTY0MDc5NzY3NjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Contos Escolhidos de Oscar Wilde</titulo>
+                    <isbn>9789897075209</isbn>
+                    <preco>9,95</preco>
+                    <editora>Fábula</editora>
+                    <capa>https://img.bertrand.pt/images/contos-escolhidos-de-oscar-wilde-oscar-wilde/NDV8MTk4NDM1MDh8MTU2ODE1NzZ8MTY0NTQzNzMwNTAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Nicholas Sparks</nome>
+          <nomeCompleto>Nicholas Charles Sparks</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nicholas-Sparks-Autograph-1-4-06.jpg/250px-Nicholas-Sparks-Autograph-1-4-06.jpg</fotografia>
+          <nascimento>1965</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Um Sonho Só Nosso</titulo>
+                    <isbn>9789892355214</isbn>
+                    <preco>17,01</preco>
+                    <editora>Edições Asa</editora>
+                    <capa>https://img.bertrand.pt/images/um-sonho-so-nosso-nicholas-sparks/NDV8MjczNDgzODN8MjM3MDA1NjV8MTY2MTQ0MjI0MDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Sonho</titulo>
+                    <isbn>9789892352008</isbn>
+                    <preco>16,65</preco>
+                    <editora>Edições Asa</editora>
+                    <capa>https://img.bertrand.pt/images/o-sonho-nicholas-sparks/NDV8MjUzODE4OTB8MjE2MTExNDB8MTYzMDQyMjA1MTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Regresso</titulo>
+                    <isbn>9789892349206</isbn>
+                    <preco>15,12</preco>
+                    <editora>Edições Asa</editora>
+                    <capa>https://img.bertrand.pt/images/o-regresso-nicholas-sparks/NDV8MjQzMDI4NDF8MjAzODcwOTR8MTU5ODQzNjM1MzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Uma Promessa para Toda a Vida</titulo>
+                    <isbn>9789892323404</isbn>
+                    <preco>14,32</preco>
+                    <editora>Edições Asa</editora>
+                    <capa>https://img.bertrand.pt/images/uma-promessa-para-toda-a-vida-nicholas-sparks/NDV8MTQ5MzA2NTl8MTA0MTQ2Mjd8MTM4MzU5MDI0NDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Untitled Nicholas Sparks 3</titulo>
+                    <isbn>9780751567861</isbn>
+                    <preco>19,56</preco>
+                    <editora>LITTLE, BROWN BOOK GROUP</editora>
+                    <capa>https://img.bertrand.pt/images/untitled-nicholas-sparks-3-nicholas-sparks/NDV8MjQ0ODc2MzF8MjA1ODAyMjB8MTY2OTIyNDUyNDAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Fernando Pessoa</nome>
+          <nomeCompleto>Fernando António Nogueira Pessoa</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pessoa_chapeu.jpg/200px-Pessoa_chapeu.jpg</fotografia>
+          <nascimento>1888</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Poesia, Ricardo Reis</titulo>
+                    <isbn>978-972-37-2318-2</isbn>
+                    <preco>16,97</preco>
+                    <editora>Assírio &amp; Alvim</editora>
+                    <capa>https://img.bertrand.pt/images/poesia-ricardo-reis-fernando-pessoa/NDV8MTEyMzcwNTJ8MjQ3NjYxODJ8MTY4MzcyOTUzMDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Cartas de Amor de Fernando Pessoa e Ofélia Queiroz</titulo>
+                    <isbn>978-972-0-79310-2</isbn>
+                    <preco>15,08</preco>
+                    <editora>Assírio &amp; Alvim</editora>
+                    <capa>https://img.bertrand.pt/images/cartas-de-amor-de-fernando-pessoa-e-ofelia-queiroz-fernando-pessoa/NDV8MTMwMjk2MjN8MTg3MTg3MTZ8MTU1MTI1OTA4MDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Palavras do Livro do Desassossego | Words from The Book of Disquiet</titulo>
+                    <isbn>9789896152413</isbn>
+                    <preco>14,99</preco>
+                    <editora>Edições Centro Atlântico</editora>
+                    <capa>https://img.bertrand.pt/images/palavras-do-livro-do-desassossego-words-from-the-book-of-disquiet-fernando-pessoa/NDV8Mjg1OTcwNTl8MjQ5Nzc5NzR8MTY4NTM3ODQ5MzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Poesia de Fernando Pessoa</titulo>
+                    <isbn>9789722369657</isbn>
+                    <preco>14,31</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/poesia-de-fernando-pessoa-fernando-pessoa/NDV8MjcyNTI0Mjl8MjM1ODc5OTF8MTY1ODgyNjg5ODAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Paulo Coelho</nome>
+          <nomeCompleto>Paulo Coelho de Souza</nomeCompleto>
+          <nacionalidade>Brasileiro</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Paulo_Coelho_30102007.jpg/220px-Paulo_Coelho_30102007.jpg</fotografia>
+          <nascimento>1947</nascimento>
+          <obras>
+               <livro>
+                    <titulo>O Alquimista</titulo>
+                    <isbn>9789722524223</isbn>
+                    <preco>6,40</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/o-alquimista-paulo-coelho/NDV8MTUyMzcxMzl8MTA3MjU0NzV8MTY0NjM5OTYyNDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Alquimista</titulo>
+                    <isbn>9789896877897</isbn>
+                    <preco>14,94</preco>
+                    <editora>Pergaminho</editora>
+                    <capa>https://img.bertrand.pt/images/o-alquimista-paulo-coelho/NDV8MjczOTU2OTh8MjM3NTQ4NTJ8MTY2NjYyNDA1MDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Diário de Um Mago</titulo>
+                    <isbn>9789722525732</isbn>
+                    <preco>6,40</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/o-diario-de-um-mago-paulo-coelho/NDV8MTQ3MzQxMzh8MTAyMTYxMTB8MTM4MzU4OTc3MjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Aleph</titulo>
+                    <isbn>9789722531689</isbn>
+                    <preco>6,40</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/o-aleph-paulo-coelho/NDV8MTcwMzg1ODV8MTI2NjIyMzJ8MTQ4NzMyNzM1NzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Na Margem do Rio Piedra Eu Sentei e Chorei</titulo>
+                    <isbn>9789896877903</isbn>
+                    <preco>14,94</preco>
+                    <editora>Pergaminho</editora>
+                    <capa>https://img.bertrand.pt/images/na-margem-do-rio-piedra-eu-sentei-e-chorei-paulo-coelho/NDV8MjczOTU3MTh8MjM3NTQ5MzR8MTY3MTA5Nzg5NjAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>José Luís Peixoto</nome>
+          <nomeCompleto>José Luís Marques Peixoto</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/JoseLuisPeixoto.JPG/223px-JoseLuisPeixoto.JPG</fotografia>
+          <nascimento>1974</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Almoço de Domingo</titulo>
+                    <isbn>9789897224607</isbn>
+                    <preco>14,16</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/almoco-de-domingo-jose-luis-peixoto/NDV8MjEzMzIxOTh8MTcyMTgzNDJ8MTYxNDg4MzAwNzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Morreste-me</titulo>
+                    <isbn>9789897226809</isbn>
+                    <preco>12,95</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/morreste-me-jose-luis-peixoto/NDV8MjUxNzY0Nzd8MjEzNzc4Mzh8MTYyODE4MzcxMDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Galveias</titulo>
+                    <isbn>9789897221798</isbn>
+                    <preco>14,16</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/galveias-jose-luis-peixoto/NDV8MTU4MjYyNDJ8MTEzMjIxNTZ8MTQ0NzI2MjgwNTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Caminho Imperfeito</titulo>
+                    <isbn>9789897223563</isbn>
+                    <preco>14,16</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/o-caminho-imperfeito-jose-luis-peixoto/NDV8MTk2NzUzNjR8MTU1MDI4Mjl8MTUwNDYwNTgzNzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Autobiografia</titulo>
+                    <isbn>9789897224591</isbn>
+                    <preco>14,16</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/autobiografia-jose-luis-peixoto/NDV8MjEzMzIxOTN8MTcyMTgzNDF8MTU2MDI2NzE0NzAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Isabel Allende</nome>
+          <nomeCompleto>Isabel Allende Llona</nomeCompleto>
+          <nacionalidade>Chilena</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Isabel_allende.jpg/200px-Isabel_allende.jpg</fotografia>
+          <nascimento>1942</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Filha da fortuna</titulo>
+                    <isbn>978-972-0-04675-8</isbn>
+                    <preco>15,08</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/filha-da-fortuna-isabel-allende/NDV8MTU3NDc0NDh8MjQ5MTIyMzV8MTY4NDg0ODE3MTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Violeta</titulo>
+                    <isbn>978-972-0-03529-5</isbn>
+                    <preco>16,97</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/violeta-isabel-allende/NDV8MjU1OTMzMDN8MjQ1Njg2MzJ8MTY3ODI5NjYzNDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Mulheres da minha alma</titulo>
+                    <isbn>978-972-0-03380-2</isbn>
+                    <preco>13,32</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/mulheres-da-minha-alma-isabel-allende/NDV8MjQyNTM2NTd8MjE4ODExNDN8MTYzODIwNTIzNTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>A casa dos espíritos</titulo>
+                    <isbn>978-972-0-04445-7</isbn>
+                    <preco>15,08</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/a-casa-dos-espiritos-isabel-allende/NDV8MTQ1OTE0NjR8MjM1NDgyMjF8MTY2OTYzODU4MDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Longa pétala de mar</titulo>
+                    <isbn>978-972-0-03233-1</isbn>
+                    <preco>15,08</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/longa-petala-de-mar-isabel-allende/NDV8MjMyNDU3MTN8MjQzMzQ0Njh8MTYzNzkyNjE2MTAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Julian Barnes</nome>
+          <nomeCompleto>Julian Patrick Barnes</nomeCompleto>
+          <nacionalidade>Britânica</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Julian_Barnes_in_2019_02.jpg/200px-Julian_Barnes_in_2019_02.jpg</fotografia>
+          <nascimento>1946</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Amor &amp; C.ª</titulo>
+                    <isbn>9789897228001</isbn>
+                    <preco>15,93</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/amor-e-c-julian-barnes/NDV8MjU2Mzc3NDd8MjE4ODc3MTh8MTY3NjA0MTAxMTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>A Única História</titulo>
+                    <isbn>9789897224690</isbn>
+                    <preco>13,28</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/a-unica-historia-julian-barnes/NDV8MjEzMzI0NDV8MTcyMTgzODl8MTU1MjM5MTIwMTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Nada a Temer</titulo>
+                    <isbn>9789897226724</isbn>
+                    <preco>13,28</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/nada-a-temer-julian-barnes/NDV8MjM3OTcyODl8MTk4MTA3MjN8MTU4NDQ3MDgzMDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Homem do Casaco Vermelho</titulo>
+                    <isbn>9789897226618</isbn>
+                    <preco>16,92</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/o-homem-do-casaco-vermelho-julian-barnes/NDV8MjQxMTc3Mzd8MjAxODcyNzB8MTYxODUwMDM5ODAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Ruído do Tempo</titulo>
+                    <isbn>9789897223068</isbn>
+                    <preco>12,40</preco>
+                    <editora>Quetzal Editores</editora>
+                    <capa>https://img.bertrand.pt/images/o-ruido-do-tempo-julian-barnes/NDV8MTc4MTc4OTF8MTM0NTkyNTV8MTQ2NDg2MzYyODAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>João Tordo</nome>
+          <nomeCompleto>João Tordo</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Jo%C3%A3o_Tordo.jpg/200px-Jo%C3%A3o_Tordo.jpg</fotografia>
+          <nascimento>1975</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Uma Valsa com a Morte</titulo>
+                    <isbn>9789897849206</isbn>
+                    <preco>14,99</preco>
+                    <editora>Companhia das Letras</editora>
+                    <capa>https://img.bertrand.pt/images/uma-valsa-com-a-morte-joao-tordo/NDV8Mjg1NTI4NTB8MjQ5MzI2MTd8MTY4MzkwMjY2MDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Águas Passadas</titulo>
+                    <isbn>9789897849510</isbn>
+                    <preco>12,56</preco>
+                    <editora>Companhia das Letras</editora>
+                    <capa>https://img.bertrand.pt/images/aguas-passadas-joao-tordo/NDV8MjgzODE5MzR8MjQ3NDUzMjF8MTY3ODI3NzQ2NzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Felicidade</titulo>
+                    <isbn>9789897840401</isbn>
+                    <preco>15,08</preco>
+                    <editora>Companhia das Letras</editora>
+                    <capa>https://img.bertrand.pt/images/felicidade-joao-tordo/NDV8MjQzNTY3NTd8MjA0NDU3MTB8MTY2NTM4ODA1NjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>As Três Vidas</titulo>
+                    <isbn>9789897844379</isbn>
+                    <preco>12,56</preco>
+                    <editora>Companhia das Letras</editora>
+                    <capa>https://img.bertrand.pt/images/as-tres-vidas-joao-tordo/NDV8MjgwNjQyODZ8MjQ0NjU4NzB8MTY3MzQzMzU4MTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Cem Anos de Perdão</titulo>
+                    <isbn>9789897847196</isbn>
+                    <preco>19,76</preco>
+                    <editora>Companhia das Letras</editora>
+                    <capa>https://img.bertrand.pt/images/cem-anos-de-perdao-joao-tordo/NDV8Mjc3NjI1NDV8MjQxMzc2MTV8MTY2NTU4MzYxNzAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Gabriela Mistral</nome>
+          <nomeCompleto>Lucila de María Godoy Alcayaga</nomeCompleto>
+          <nacionalidade>Chilena</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gabriela_Mistral-01.jpg/200px-Gabriela_Mistral-01.jpg</fotografia>
+          <nascimento>1889</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Gabriela Mistral Para Niños Y Niñas... Y Otros Seres Curiosos</titulo>
+                    <isbn>9788479604332</isbn>
+                    <preco>9,78</preco>
+                    <editora>DE LA TORRE</editora>
+                    <capa>https://img.bertrand.pt/images/gabriela-mistral-para-ninos-y-ninas-y-otros-seres-curiosos-gabriela-mistral/NDV8OTYwNTk2N3w1MTk0MTQwfDEzODM1ODA1ODUwMDA=/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Gabriela Mistral, Poemas Ilustrados</titulo>
+                    <isbn>9789563641905</isbn>
+                    <preco>6,49</preco>
+                    <editora>Editorial Amanuta</editora>
+                    <capa>https://img.bertrand.pt/images/gabriela-mistral-poemas-ilustrados-gabriela-mistral/NDV8MjQ2NTg4MDd8MjA3OTc1ODF8MTY4NDE0ODg1MTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Gabriela Mistral. Antología Poética</titulo>
+                    <isbn>9788441406704</isbn>
+                    <preco>8,57</preco>
+                    <editora>EDAF</editora>
+                    <capa>https://img.bertrand.pt/images/gabriela-mistral-antologia-poetica-gabriela-mistral/NDV8MjMxNjAzOHwyMDMxMzE1fDE0NDk4NTEyNjAwMDA=/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Poemas Escolhidos: Gabriela Mistral</titulo>
+                    <isbn>9786559311279</isbn>
+                    <preco>8,49</preco>
+                    <editora>Editora Peirópolis</editora>
+                    <capa>https://img.bertrand.pt/images/poemas-escolhidos-gabriela-mistral-gabriela-mistral/NDV8MjY4Mzg0Mzl8MjMxMjcwODJ8MTY0OTExNTg5MDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Gabriela Mistral En Verso Y Prosa. Antología</titulo>
+                    <isbn>9788420438986</isbn>
+                    <preco>7,99</preco>
+                    <editora>ALFAGUARA</editora>
+                    <capa>https://img.bertrand.pt/images/gabriela-mistral-en-verso-y-prosa-antologia-gabriela-mistral/NDV8MjMzNTcwNDZ8MTkzMDcyODV8MTU2ODMzODYwMTAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>J. K. Rowling</nome>
+          <nomeCompleto>Joanne Rowling</nomeCompleto>
+          <nacionalidade>Britânica</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/225px-J._K._Rowling_2010.jpg</fotografia>
+          <nascimento>1965</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Harry Potter e a Pedra Filosofal</titulo>
+                    <isbn>9789722365598</isbn>
+                    <preco>13,52</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/harry-potter-e-a-pedra-filosofal-j-k-rowling/NDV8MjQwNjY3OTh8MjAxMjQ0MzF8MTU5MDU5MzU3OTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Harry Potter e o Prisioneiro de Azkaban</titulo>
+                    <isbn>9789722365611</isbn>
+                    <preco>14,32</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/harry-potter-e-o-prisioneiro-de-azkaban-j-k-rowling/NDV8MjQwNjY4MDB8MjAxMjQ0MzN8MTU5MDU5MzU4NDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Harry Potter e a Ordem da Fénix</titulo>
+                    <isbn>9789722365635</isbn>
+                    <preco>18,32</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/harry-potter-e-a-ordem-da-fenix-j-k-rowling/NDV8MjQwNjY4MDJ8MjAxMjQ0MzV8MTU5MDU5MzU4OTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Harry Potter e a Câmara dos Segredos</titulo>
+                    <isbn>9789722365604</isbn>
+                    <preco>13,52</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/harry-potter-e-a-camara-dos-segredos-j-k-rowling/NDV8MjQwNjY3OTl8MjAxMjQ0MzJ8MTU5MDU5MzU4MTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Harry Potter e o Cálice de Fogo</titulo>
+                    <isbn>9789722365628</isbn>
+                    <preco>16,72</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/harry-potter-e-o-calice-de-fogo-j-k-rowling/NDV8MjQwNjY4MDF8MjAxMjQ0MzR8MTU5MDU5MzU4NjAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Raymond Carver</nome>
+          <nomeCompleto>Raymond Clevie Carver, Jr.</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <fotografia />
+          <nascimento>1938</nascimento>
+          <obras />
+     </autor>
+     <autor>
+          <nome>Gore Vidal</nome>
+          <nomeCompleto>Eugene Luther Gore Vidal</nomeCompleto>
+          <nacionalidade>Norte-americano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gore_Vidal_2_Shankbone_2009_NYC.jpg/200px-Gore_Vidal_2_Shankbone_2009_NYC.jpg</fotografia>
+          <nascimento>1925</nascimento>
+          <obras>
+               <livro>
+                    <titulo>The Essential Gore Vidal</titulo>
+                    <isbn>9780349112671</isbn>
+                    <preco>24,71</preco>
+                    <editora>LITTLE, BROWN BOOK GROUP</editora>
+                    <capa>https://img.bertrand.pt/images/the-essential-gore-vidal-gore-vidal/NDV8MzA5NDc4M3wyNDg4NTQ3fDE1NjgxMTMxNTcwMDA=/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Selected Essays Of Gore Vidal</titulo>
+                    <isbn>9780385526821</isbn>
+                    <preco>9,71</preco>
+                    <editora>Knopf Doubleday Publishing Group</editora>
+                    <capa>https://img.bertrand.pt/images/selected-essays-of-gore-vidal-gore-vidal/NDV8MTM4OTUwNzR8OTQ2ODkyM3wxNTkwMDIxMzI5MDAw/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>City And The Pillar</titulo>
+                    <isbn>9780349106571</isbn>
+                    <preco>10,29</preco>
+                    <editora>LITTLE, BROWN BOOK GROUP</editora>
+                    <capa>https://img.bertrand.pt/images/city-and-the-pillar-gore-vidal/NDV8MTI0MTUxfDE1NDIxOHwxNTY4MTEzMTQwMDAw/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>James Joyce</nome>
+          <nomeCompleto>James Augustine Aloysius Joyce</nomeCompleto>
+          <nacionalidade>Irlandês</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Revolutionary_Joyce_Better_Contrast.jpg/200px-Revolutionary_Joyce_Better_Contrast.jpg</fotografia>
+          <nascimento>1882</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Retrato do Artista Quando Jovem</titulo>
+                    <isbn>9789897029233</isbn>
+                    <preco>16,20</preco>
+                    <editora>Editora Guerra &amp; Paz</editora>
+                    <capa>https://img.bertrand.pt/images/retrato-do-artista-quando-jovem-james-joyce/NDV8MjgxNTQxMDR8MjQ1NDU4ODl8MTY3NTc4NjMwNzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Retrato do Artista quando Jovem</titulo>
+                    <isbn>978-989-711-179-2</isbn>
+                    <preco>14,99</preco>
+                    <editora>Livros do Brasil</editora>
+                    <capa>https://img.bertrand.pt/images/retrato-do-artista-quando-jovem-james-joyce/NDV8MjY2NzcxMTl8MjI5NTY1Nzd8MTY3MjIzNjY5NTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>James Joyce: Poems</titulo>
+                    <isbn>9781841597973</isbn>
+                    <preco>10,29</preco>
+                    <editora>EVERYMAN</editora>
+                    <capa>https://img.bertrand.pt/images/james-joyce-poems-james-joyce/NDV8MTUzMDE4MzF8MTA3OTIzNzh8MTU1MjA4NjE5MDAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Emma Donoghue</nome>
+          <nomeCompleto>Emma Donoghue</nomeCompleto>
+          <nacionalidade>Irlandesa</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Irish-Canadian_author_Emma_Donoghue.JPG/200px-Irish-Canadian_author_Emma_Donoghue.JPG</fotografia>
+          <nascimento>1969</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Haven</titulo>
+                    <isbn>9781529091168</isbn>
+                    <preco>10,29</preco>
+                    <editora>Pan MacMillan</editora>
+                    <capa>https://img.bertrand.pt/images/haven-emma-donoghue/NDV8MjgxNzE4NDN8MjQ1NjAxOTl8MTY4MjM2ODY5NDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Quarto de Jack</titulo>
+                    <isbn>978-972-0-04343-6</isbn>
+                    <preco>14,20</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-quarto-de-jack-emma-donoghue/NDV8MTA3MDkyNTZ8MTg0OTc1MDV8MTY2ODc2Nzk4NTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Prodígio</titulo>
+                    <isbn>978-972-0-04039-8</isbn>
+                    <preco>14,20</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-prodigio-emma-donoghue/NDV8MTkyNDk5NTd8MjQxNzM0MjJ8MTY2ODc2NzMwMDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>A dança das estrelas</titulo>
+                    <isbn>978-972-0-03408-3</isbn>
+                    <preco>14,20</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/a-danca-das-estrelas-emma-donoghue/NDV8MjQ0NTY5MjB8MjA1NDY1NTZ8MTYxMTU2Njg0MzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Prodígio</titulo>
+                    <isbn>978-972-0-68885-9</isbn>
+                    <preco>11,19</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-prodigio-emma-donoghue/NDV8MTkyNDk5NDJ8MTUwNTI3MjN8MTY2ODc2NzI5MzAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>José Saramago</nome>
+          <nomeCompleto>José de Sousa Saramago</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JSJoseSaramago.jpg/250px-JSJoseSaramago.jpg</fotografia>
+          <nascimento>1922</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Memorial do Convento</titulo>
+                    <isbn>978-972-0-04671-0</isbn>
+                    <preco>14,20</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/memorial-do-convento-jose-saramago/NDV8MTU3NDc0NDR8MjM1NjIyNjF8MTY2MjA0MDgyMzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>As Intermitências da Morte</titulo>
+                    <isbn>978-972-0-04667-3</isbn>
+                    <preco>13,32</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/as-intermitencias-da-morte-jose-saramago/NDV8MTU3MjM4ODR8MjQ5MjQxNDB8MTY4NDg0NzY4NjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Ensaio sobre a Cegueira</titulo>
+                    <isbn>978-972-0-04683-3</isbn>
+                    <preco>14,20</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/ensaio-sobre-a-cegueira-jose-saramago/NDV8MTU4MjU0ODZ8MjQyMDkzODJ8MTY2OTEzMzY3NTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Ano da Morte de Ricardo Reis</titulo>
+                    <isbn>978-972-0-04882-0</isbn>
+                    <preco>14,20</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-ano-da-morte-de-ricardo-reis-jose-saramago/NDV8MTg0OTM1MDl8MjQyMzAwOTJ8MTY3MDk0NTY4NzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Alabardas, alabardas, Espingardas, espingardas</titulo>
+                    <isbn>978-972-0-04695-6</isbn>
+                    <preco>12,40</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/alabardas-alabardas-espingardas-espingardas-jose-saramago/NDV8MTU4NzcwNjJ8MjQ3NDQ2NzJ8MTY4MTM3MjE1ODAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>António Tabucchi</nome>
+          <nomeCompleto>Antonio Tabucchi</nomeCompleto>
+          <nacionalidade>Italiano</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Antonio_Tabucchi.jpg/200px-Antonio_Tabucchi.jpg</fotografia>
+          <nascimento>1943</nascimento>
+          <obras />
+     </autor>
+     <autor>
+          <nome>António Lobo Antunes</nome>
+          <nomeCompleto>António Lobo Antunes</nomeCompleto>
+          <nacionalidade>Português</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/270px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg</fotografia>
+          <nascimento>1942</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Caderno António Lobo Antunes</titulo>
+                    <isbn>9789722069038</isbn>
+                    <preco>4,00</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/caderno-antonio-lobo-antunes-antonio-lobo-antunes/NDV8MjM1NDg3MDV8MTk1MTk0NzZ8MTU3MjAxMzY4NzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Cartas da Guerra</titulo>
+                    <isbn>9789722028981</isbn>
+                    <preco>16,72</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/cartas-da-guerra-antonio-lobo-antunes/NDV8MTczMjg4fDIyMTE0MnwxNDcyNzI0OTM0MDAw/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Não é Meia Noite Quem Quer</titulo>
+                    <isbn>9789722050944</isbn>
+                    <preco>17,52</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/nao-e-meia-noite-quem-quer-antonio-lobo-antunes/NDV8MTQxNjA1MDZ8OTcyNDkyOXwxMzgzNTg1OTAzMDAw/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Caminho Como Uma Casa em Chamas</titulo>
+                    <isbn>9789722055888</isbn>
+                    <preco>16,72</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/caminho-como-uma-casa-em-chamas-antonio-lobo-antunes/NDV8MTU5NzYxMjJ8MTE1MDYxNzd8MTQxMTc1NDcyMTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Que Farei Quando Tudo Arde?</titulo>
+                    <isbn>9789722034098</isbn>
+                    <preco>19,92</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/que-farei-quando-tudo-arde-antonio-lobo-antunes/NDV8NzE1NDR8MTAxNjExfDEzODM1NzcwNDkwMDA=/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Jorge Amado</nome>
+          <nomeCompleto>Jorge Leal Amado de Faria</nomeCompleto>
+          <nacionalidade>Brasileiro</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jorge_Amado%2C_1970.tif/lossy-page1-200px-Jorge_Amado%2C_1970.tif.jpg</fotografia>
+          <nascimento>1912</nascimento>
+          <obras>
+               <livro>
+                    <titulo>O Gato Malhado e a Andorinha Sinhá</titulo>
+                    <isbn>9789722020244</isbn>
+                    <preco>6,00</preco>
+                    <editora>BIS</editora>
+                    <capa>https://img.bertrand.pt/images/o-gato-malhado-e-a-andorinha-sinha-jorge-amado/NDV8NzE1MTR8MTAxNTgxfDEzODM1ODA2MTkwMDA=/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Gabriela, Cravo e Canela</titulo>
+                    <isbn>9789722050364</isbn>
+                    <preco>16,72</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/gabriela-cravo-e-canela-jorge-amado/NDV8MTMwNDQ1MjN8ODYxNzg3M3wxMzgzNTg1NTM4MDAw/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Tieta do Agreste</titulo>
+                    <isbn>9789722051941</isbn>
+                    <preco>19,12</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/tieta-do-agreste-jorge-amado/NDV8MTQ4NzUzNDh8MTAzNTg1NjB8MTM4MzU5MDIzNDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Dona Flor e os Seus Dois Maridos</titulo>
+                    <isbn>9789722064583</isbn>
+                    <preco>17,52</preco>
+                    <editora>Dom Quixote</editora>
+                    <capa>https://img.bertrand.pt/images/dona-flor-e-os-seus-dois-maridos-jorge-amado/NDV8MjE1MDIyMzF8MTczNDgwMzF8MTUxOTc1MzAyNTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Apontamentos Europa-América Explicam Jorge Amado - O Gato Malhado e a Andorinha Sinhá - Nº 113</titulo>
+                    <isbn>9789721048584</isbn>
+                    <preco>3,92</preco>
+                    <editora>Publicações Europa-América</editora>
+                    <capa>https://img.bertrand.pt/images/apontamentos-europa-america-explicam-jorge-amado-o-gato-malhado-e-a-andorinha-sinha-n-113-jorge-amado/NDV8NjU5MDN8OTU5NzB8MTYzOTU3MTIzMDAwMA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Haruki Murakami</nome>
+          <nomeCompleto>Haruki Murakami</nomeCompleto>
+          <nacionalidade>Japonesa</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Murakami_Haruki_%282009%29.jpg/200px-Murakami_Haruki_%282009%29.jpg</fotografia>
+          <nascimento>1949</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Auto-Retrato do Escritor Enquanto Corredor de Fundo</titulo>
+                    <isbn>9789724619231</isbn>
+                    <preco>11,12</preco>
+                    <editora>Casa das Letras</editora>
+                    <capa>https://img.bertrand.pt/images/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/NDV8Mjk5MDY4NXwyNDQ3MTc3fDE0NDU0NDI2ODYwMDA=/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Auto-Retrato Do Escritor Enquanto Corredor De Fundo</titulo>
+                    <isbn>9789724622088</isbn>
+                    <preco>5,59</preco>
+                    <editora>Casa das Letras</editora>
+                    <capa>https://img.bertrand.pt/images/auto-retrato-do-escritor-enquanto-corredor-de-fundo-haruki-murakami/NDV8MjEyNDM2NjJ8MTcxMTI2OTV8MTUxMjQ1NjAzMjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Toquio Blues</titulo>
+                    <isbn>9788499305554</isbn>
+                    <preco>10,61</preco>
+                    <editora>LABUTXACA</editora>
+                    <capa>https://img.bertrand.pt/images/toquio-blues-haruki-murakami/NDV8MTk1MDI4Nzd8MTUzMjE5MDB8MA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>After Dark</titulo>
+                    <isbn>9788499305585</isbn>
+                    <preco>9,54</preco>
+                    <editora>LABUTXACA</editora>
+                    <capa>https://img.bertrand.pt/images/after-dark-haruki-murakami/NDV8MTk1MDI4Nzl8MTUzMjE5MDJ8MA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>L'Amant Perillosa</titulo>
+                    <isbn>9788499305561</isbn>
+                    <preco>8,46</preco>
+                    <editora>LABUTXACA</editora>
+                    <capa>https://img.bertrand.pt/images/lamant-perillosa-haruki-murakami/NDV8MTk1MDI4Nzh8MTUzMjE5MDF8MA==/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Orhan Pamuk</nome>
+          <nomeCompleto>Ferit Orhan Pamuk</nomeCompleto>
+          <nacionalidade>turco</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Orhan_Pamuk_2009_Shankbone.jpg/200px-Orhan_Pamuk_2009_Shankbone.jpg</fotografia>
+          <nascimento>1952</nascimento>
+          <obras>
+               <livro>
+                    <titulo>Orhan Pamuk: Balkon</titulo>
+                    <isbn>9783958293991</isbn>
+                    <preco>30,90</preco>
+                    <editora>STEIDL PUBLISHERS</editora>
+                    <capa>https://img.bertrand.pt/images/orhan-pamuk-balkon-orhan-pamuk/NDV8MjEzODc0MDV8MTcyNjY5OTZ8MTUzNzkxOTA1MjAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Orhan Pamuk Orange /Anglais</titulo>
+                    <isbn>9783958296534</isbn>
+                    <preco>37,10</preco>
+                    <editora>STEIDL PUBLISHERS</editora>
+                    <capa>https://img.bertrand.pt/images/orhan-pamuk-orange-anglais-orhan-pamuk/NDV8MjMxNjc0NDJ8MTkwODczNjd8MTU3MTg2NDAzNDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Istambul</titulo>
+                    <isbn>9789722339766</isbn>
+                    <preco>15,92</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/istambul-orhan-pamuk/NDV8MjExMDc3fDMyNjMzNnwxMzgzNTc3MDU1MDAw/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>A Mulher de Cabelo Ruivo</titulo>
+                    <isbn>9789722362108</isbn>
+                    <preco>15,12</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/a-mulher-de-cabelo-ruivo-orhan-pamuk/NDV8MjE4MjU5MDR8MTc2NzkzNTR8MTUyNDI0MTY4MzAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Romancista Ingénuo e o Sentimental</titulo>
+                    <isbn>9789722348010</isbn>
+                    <preco>11,92</preco>
+                    <editora>Editorial Presença</editora>
+                    <capa>https://img.bertrand.pt/images/o-romancista-ingenuo-e-o-sentimental-orhan-pamuk/NDV8MTI2MzkxMTV8ODIxMTIyMHwxMzgzNTgxNTg3MDAw/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+     <autor>
+          <nome>Alexandre Herculano</nome>
+          <nomeCompleto>Alexandre Herculano de Carvalho e Araújo</nomeCompleto>
+          <nacionalidade>Portuguesa AAAA</nacionalidade>
+          <fotografia>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/AlexandreHerculano.png/240px-AlexandreHerculano.png</fotografia>
+          <nascimento>1810</nascimento>
+          <obras>
+               <livro>
+                    <titulo>A Abóbada</titulo>
+                    <isbn>978-972-0-72676-6</isbn>
+                    <preco>7,75</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/a-abobada-alexandre-herculano/NDV8MTU3MjQxODR8MjE0OTk0NDJ8MTYzMjM5NDkzMDAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>O Castelo de Faria e outras narrativas</titulo>
+                    <isbn>978-972-0-72705-3</isbn>
+                    <preco>7,75</preco>
+                    <editora>Porto Editora</editora>
+                    <capa>https://img.bertrand.pt/images/o-castelo-de-faria-e-outras-narrativas-alexandre-herculano/NDV8MTU3MjQxODl8MTkzNjQ4NTF8MTU3MTMyMTMyODAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>História da Origem e Estabelecimento da Inquisição em Portugal</titulo>
+                    <isbn>9789722534543</isbn>
+                    <preco>7,00</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/historia-da-origem-e-estabelecimento-da-inquisicao-em-portugal-alexandre-herculano/NDV8MTk1OTc2NzB8MTU0MjA4ODZ8MTUwMzMyMDk1NTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>História da Origem e Estabelecimento da Inquisição em Portugal</titulo>
+                    <isbn>9789722533294</isbn>
+                    <preco>7,00</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/historia-da-origem-e-estabelecimento-da-inquisicao-em-portugal-alexandre-herculano/NDV8MTg5MjU3ODV8MTQ2NTg1NzR8MTQ4MjI1MzA4NTAwMA==/500x</capa>
+               </livro>
+               <livro>
+                    <titulo>Eurico, o Presbítero</titulo>
+                    <isbn>9789722522991</isbn>
+                    <preco>6,00</preco>
+                    <editora>11 X 17</editora>
+                    <capa>https://img.bertrand.pt/images/eurico-o-presbitero-alexandre-herculano/NDV8MTA3MDgzNzd8NjI3Nzg3NHwxMzgzNTgxMTg4MDAw/500x</capa>
+               </livro>
+          </obras>
+     </autor>
+</autores>

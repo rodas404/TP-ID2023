@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<escritores>
+     <escritor id="1">
+          <nome>Oscar Wilde</nome>
+          <nomeCompleto>Oscar Fingal O'Flahertie Wills Wilde</nomeCompleto>
+          <nacionalidade>irlandês</nacionalidade>
+          <fotografia>//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg/250px-Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg</fotografia>
+          <nascimento>
+               <data>16 de outubro 1854</data>
+               <ano>1854</ano>
+               <local>Dublin, Reino Unido da Grã-Bretanha e Irlanda</local>
+          </nascimento>
+          <morte>
+               <data>30 de novembro 1900</data>
+               <ano>1900</ano>
+               <local>Paris, França</local>
+          </morte>
+          <generos>
+               <genero>Drama</genero>
+               <genero>conto</genero>
+               <genero>diálogo</genero>
+          </generos>
+          <ocupacoes>
+               <ocupacao>poeta</ocupacao>
+               <ocupacao>dramaturgo</ocupacao>
+               <ocupacao>contista</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>escritor de literatura infantil</ocupacao>
+               <ocupacao>romancista</ocupacao>
+               <ocupacao>escritor</ocupacao>
+               <ocupacao>autor</ocupacao>
+               <ocupacao>prosista</ocupacao>
+               <ocupacao>jornalista de opinião</ocupacao>
+               <ocupacao>ensaísta</ocupacao>
+               <ocupacao>fabulista</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>The Importance of Being Earnest</obra>
+               <obra>O Retrato de Dorian Gray</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1878">Newdigate Prize</premio>
+          </premios>
+     </escritor>
+     <escritor id="2">
+          <nome>José Saramago</nome>
+          <nomeCompleto>José de Sousa Saramago</nomeCompleto>
+          <nacionalidade>português</nacionalidade>
+          <fotografia>//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JSJoseSaramago.jpg/250px-JSJoseSaramago.jpg</fotografia>
+          <nascimento>
+               <data>16 de novembro 1922</data>
+               <ano>1922</ano>
+               <local>Azinhaga, Golegã, Portugal</local>
+          </nascimento>
+          <morte>
+               <data>18 de junho 2010</data>
+               <ano>2010</ano>
+               <local>Província de Las Palmas, Canárias, Espanha</local>
+          </morte>
+          <generos />
+          <ocupacoes>
+               <ocupacao>serralheiro</ocupacao>
+               <ocupacao>mecânico</ocupacao>
+               <ocupacao>funcionário público</ocupacao>
+               <ocupacao>técnico editorial</ocupacao>
+               <ocupacao>escritor</ocupacao>
+               <ocupacao>tradutor</ocupacao>
+               <ocupacao>jornalista</ocupacao>
+               <ocupacao>poeta</ocupacao>
+               <ocupacao>cronista</ocupacao>
+               <ocupacao>dramaturgo</ocupacao>
+               <ocupacao>contista</ocupacao>
+               <ocupacao>romancista</ocupacao>
+               <ocupacao>teatrólogo</ocupacao>
+               <ocupacao>argumentista</ocupacao>
+               <ocupacao>ensaísta</ocupacao>
+          </ocupacoes>
+          <obrasEmDestaque>
+               <obra>Memorial do Convento</obra>
+               <obra>O Evangelho segundo Jesus Cristo</obra>
+               <obra>Ensaio sobre a Cegueira</obra>
+               <obra>A Viagem do Elefante</obra>
+          </obrasEmDestaque>
+          <premios>
+               <premio ano="1980">Prémio Cidade de Lisboa</premio>
+               <premio ano="1982">Prémio Literário Município de Lisboa</premio>
+               <premio ano="1983">Prémio P.E.N. Clube Português de Novelística</premio>
+               <premio ano="1984">Prémio D. Dinis</premio>
+               <premio ano="1985">Prémio da Crítica da Associação Portuguesa de Críticos Literários</premio>
+               <premio ano="1991">Grande Prémio de Romance e Novela APE/DGLB</premio>
+               <premio ano="1991">Prémio Bordalo de Literatura da Casa da Imprensa</premio>
+               <premio ano="1993">Grande Prémio Vida Literária APE/CGD</premio>
+               <premio ano="1995">Prémio Camões</premio>
+               <premio ano="1995">Prémio de Consagração de Carreira da Sociedade Portuguesa de Autores</premio>
+               <premio ano="1998">Prémio Nobel de Literatura</premio>
+          </premios>
+     </escritor>
+</escritores>

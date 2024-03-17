@@ -1,0 +1,88 @@
+//wrappers grupo
+        /*String escritores = "escritores.txt";
+        try (BufferedReader br = new BufferedReader(new FileReader(escritores))) {
+            String linha;
+            while ((linha = br.readLine()) != null) {
+                String autor = linha.trim();
+                List<String> links = WrapperBertrand.obtem_links(autor);
+                List<Livro> livros = WrapperBertrand.criaLivro(links,autor);
+                System.out.println("Livros encontrados para o autor " + autor + ":");
+                    for (Livro livro : livros) {
+                        System.out.println("Título: " + livro.getTitulo());
+                        System.out.println("Autor: " + livro.getAutor());
+                        System.out.println("Capa: " + livro.getCapa());
+                        System.out.println("Preço: " + livro.getPreco());
+                        System.out.println("ISBN: " + livro.getIsbn());
+                        System.out.println("Editora: " + livro.getEditora());
+                        System.out.println();
+                    }
+                System.out.println("----------------------------------------------");
+            }
+        } */
+
+
+//wrappers individual    
+    /*String autor = "Raymond Carver";
+    try {
+        List<String> links = WrapperBertrand.obtem_links(autor);
+        List<Livro> livros = WrapperBertrand.criaLivro(links,autor);
+        
+        for (Livro livro : livros) {
+            System.out.println("Título: " + livro.getTitulo());
+            System.out.println("Autor: " + livro.getAutor());
+            System.out.println("Capa: " + livro.getCapa());
+            System.out.println("Preço: " + livro.getPreco());
+            System.out.println("ISBN: " + livro.getIsbn());
+            System.out.println("Editora: " + livro.getEditora());
+            System.out.println();
+        }
+    } catch (IOException e) {
+    }*/
+
+
+//xml individual adiciona autor
+       String autor = "Isabel Allende";
+
+        List<String> links = WrapperBertrand.obtem_links(autor);
+        List<Livro> livrosEncontrados = WrapperBertrand.criaLivro(links, autor);
+
+        if (!livrosEncontrados.isEmpty()) {  
+            Document documentoXML = XMLJDomFunctions.lerDocumentoXML(OBRAS_XML_FILE); 
+            for (Livro livro : livrosEncontrados) {
+                documentoXML = EscritoresXML.adicionaEscritor(livro, documentoXML);
+            }
+            XMLJDomFunctions.escreverDocumentoParaFicheiro(documentoXML, OBRAS_XML_FILE);
+        }
+
+
+//xml grupo adiciona autor
+        /*Document documentoXML = null;
+        String escritores = "escritores.txt";
+        try (BufferedReader br = new BufferedReader(new FileReader(escritores))) {
+            String linha;
+            while ((linha = br.readLine()) != null) {
+                String autor = linha.trim();
+                List<String> links = WrapperBertrand.obtem_links(autor);
+                List<Livro> livrosEncontrados = WrapperBertrand.criaLivro(links, autor); 
+
+        // Verificar se foram encontrados livros do autor 
+        if (!livrosEncontrados.isEmpty()) {
+            for (Livro livro : livrosEncontrados) {
+                documentoXML = EscritoresXML.adicionaEscritor(livro, documentoXML);
+            }
+         XMLJDomFunctions.escreverDocumentoParaFicheiro(documentoXML, OBRAS_XML_FILE);
+        }
+       
+        }
+      }*/
+
+
+//xml individual remover escritor    
+    /*Document documento = XMLJDomFunctions.lerDocumentoXML(OBRAS_XML_FILE);
+    String autor = "Isabel Allende";
+    Document documentoAtualizado = EscritoresXML.removeEscritor(autor, documento);
+
+    if (documentoAtualizado != null) {
+        XMLJDomFunctions.escreverDocumentoParaFicheiro(documentoAtualizado, OBRAS_XML_FILE);
+        System.out.println("Escritor removido com sucesso!");
+    }*/

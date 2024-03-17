@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<livros>
+     <livro>
+          <autor>Oscar Fingal O'Flahertie Wills Wilde</autor>
+          <titulo>Contos Escolhidos de Oscar Wilde</titulo>
+          <isbn>9789897075209</isbn>
+          <preco>9,95</preco>
+          <editora>Fábula</editora>
+          <capa>https://img.bertrand.pt/images/contos-escolhidos-de-oscar-wilde-oscar-wilde/NDV8MTk4NDM1MDh8MTU2ODE1NzZ8MTY0NTQzNzMwNTAwMA==/500x</capa>
+     </livro>
+     <livro>
+          <autor>Lucila de María Godoy Alcayaga</autor>
+          <titulo>Gabriela Mistral Para Niños Y Niñas... Y Otros Seres Curiosos</titulo>
+          <isbn>9788479604332</isbn>
+          <preco>9,78</preco>
+          <editora>DE LA TORRE</editora>
+          <capa>https://img.bertrand.pt/images/gabriela-mistral-para-ninos-y-ninas-y-otros-seres-curiosos-gabriela-mistral/NDV8OTYwNTk2N3w1MTk0MTQwfDEzODM1ODA1ODUwMDA=/500x</capa>
+     </livro>
+     <livro>
+          <autor>Eugene Luther Gore Vidal</autor>
+          <titulo>Selected Essays Of Gore Vidal</titulo>
+          <isbn>9780385526821</isbn>
+          <preco>9,71</preco>
+          <editora>Knopf Doubleday Publishing Group</editora>
+          <capa>https://img.bertrand.pt/images/selected-essays-of-gore-vidal-gore-vidal/NDV8MTM4OTUwNzR8OTQ2ODkyM3wxNTkwMDIxMzI5MDAw/500x</capa>
+     </livro>
+     <livro>
+          <autor>Haruki Murakami</autor>
+          <titulo>After Dark</titulo>
+          <isbn>9788499305585</isbn>
+          <preco>9,54</preco>
+          <editora>LABUTXACA</editora>
+          <capa>https://img.bertrand.pt/images/after-dark-haruki-murakami/NDV8MTk1MDI4Nzl8MTUzMjE5MDJ8MA==/500x</capa>
+     </livro>
+     <livro>
+          <autor>Oscar Fingal O'Flahertie Wills Wilde</autor>
+          <titulo>O Gigante Egoísta e O Príncipe Feliz</titulo>
+          <isbn>978-972-0-72684-1</isbn>
+          <preco>8,85</preco>
+          <editora>Porto Editora</editora>
+          <capa>https://img.bertrand.pt/images/o-gigante-egoista-e-o-principe-feliz-oscar-wilde/NDV8MTQ4NDUyNTh8MjQyOTA4NDN8MTY3MjIxNzk2MjAwMA==/500x</capa>
+     </livro>
+</livros>

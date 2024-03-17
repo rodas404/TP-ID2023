@@ -1,0 +1,46 @@
+
+<!ELEMENT escritor  ( nomeCompleto , nacionalidade , fotografia? , nascimento , morte? , generos , ocupacoes , obrasEmDestaque , premios? )>
+<!ATTLIST escritor
+nome CDATA #REQUIRED
+id CDATA #REQUIRED
+>
+
+<!ATTLIST escritores xmlns:xsi CDATA #IMPLIED>
+<!ATTLIST escritores xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+
+<!ELEMENT nascimento  ( data , ano , local )>
+
+<!ELEMENT ano  ( #PCDATA )>
+
+<!ELEMENT data  ( #PCDATA )>
+
+<!ELEMENT premio  ( #PCDATA )>
+<!ATTLIST premio
+ano CDATA #REQUIRED
+>
+
+<!ELEMENT premios  ( premio+ )>
+
+<!ELEMENT obrasEmDestaque  ( obra* )>
+
+<!ELEMENT escritores  ( escritor+ )>
+
+<!ELEMENT fotografia  ( #PCDATA )>
+
+<!ELEMENT local  ( #PCDATA )>
+
+<!ELEMENT ocupacoes  ( ocupacao* )>
+
+<!ELEMENT obra  ( #PCDATA )>
+
+<!ELEMENT ocupacao  ( #PCDATA )>
+
+<!ELEMENT morte  ( data , ano , local )>
+
+<!ELEMENT genero  ( #PCDATA )>
+
+<!ELEMENT generos  ( genero* )>
+
+<!ELEMENT nacionalidade  ( #PCDATA )>
+
+<!ELEMENT nomeCompleto  ( #PCDATA )>
